@@ -1,0 +1,12 @@
+DROP TABLE
+SELECT 164
+ total_pickups_no_dropoffs 
+---------------------------
+                 197062171
+(1 row)
+
+ total_pickups 
+---------------
+     517059118
+(1 row)
+

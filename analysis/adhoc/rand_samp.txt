@@ -1,0 +1,17 @@
+ setseed 
+---------
+ 
+(1 row)
+
+DROP TABLE
+SELECT 655156
+  count  
+---------
+ 6548296
+(1 row)
+
+   count   
+-----------
+ 654733810
+(1 row)
+
