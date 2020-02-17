@@ -1,3 +1,9 @@
 # data
 **/tables/*
 **/data/*
+
+# logs
+**/*.log
+
+# virtual env
+ubsub-env/
